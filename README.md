@@ -1,5 +1,5 @@
 # Sensor de Proximidad
-
+## Grupo 1
 ## Integrantes :
 - Manuel Auqui
 - Maria Jose Chala
