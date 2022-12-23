@@ -1,7 +1,7 @@
 # Sensor de Proximidad
 
 ## Integrantes :
-- Manuel Auque
+- Manuel Auqui
 - Maria Jose Chala
 - Adrian Chicaiza
 - Marlon Tuquerres
